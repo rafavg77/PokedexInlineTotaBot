@@ -20,6 +20,6 @@ $ sudo service bot_telegram_pokedex status
 ## TODO:
 
 - [x] Create pokedex Class
-    - [] Search by ID or Name
+    - [X] Search by ID or Name
 - [x] Inline Commnad
 - [X] Filter Commnad
