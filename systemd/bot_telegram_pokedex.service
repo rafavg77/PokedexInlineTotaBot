@@ -1,0 +1,15 @@
+[Unit]
+Description=Pokedex Telegram Bot
+
+Wants=network.target
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/Production/Bots/PokedexInlineTotaBot/src/bot.py
+Restart=on-failure
+RestartSec=10
+SyslogIdentifier=bot-pokedexinlinebot
+User=pi
+
+[Install]
+WantedBy=multi-user.target
