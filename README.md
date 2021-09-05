@@ -12,9 +12,9 @@ $ source venv/bin/activate
 $ pip3 install -r requeriments.txt
 $ sudo cp systemd/bot_telegram_pokedex.service /etc/systemd/system/bot_telegram_pokedex.service
 $ python3 src/boy.py
-$ sudo systemctl enable bot_telegram_pokedex.service.service
-$ sudo service bot_telegram_pokedex.service start
-$ sudo service bot_telegram_pokedex.service status
+$ sudo systemctl enable bot_telegram_pokedex.service
+$ sudo service bot_telegram_pokedex start
+$ sudo service bot_telegram_pokedex status
 ```
 
 ## TODO:
