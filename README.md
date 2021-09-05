@@ -1,3 +1,10 @@
+# PokedexInlineTotaBot
+Telegram Pokedex Bot by Tota
+
+![screen](https://raw.githubusercontent.com/rafavg77/TotaBot/main/img/1.jpg)
+
+![screen](https://raw.githubusercontent.com/rafavg77/TotaBot/main/img/2.jpg)
+
 ## Installation
 ```bash
 $ sudo apt-get install python3-pip
