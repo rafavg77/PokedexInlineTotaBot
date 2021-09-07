@@ -29,4 +29,4 @@ $ sudo service bot_telegram_pokedex status
 - [x] Create pokedex Class
     - [X] Search by ID or Name
 - [x] Inline Commnad
-- [X] Filter Commnad..
+- [X] Filter Commnad...
